@@ -5,3 +5,6 @@ seaborn
 matplotlib
 nltk
 unidecode
+sklearn
+scipy
+gensim
