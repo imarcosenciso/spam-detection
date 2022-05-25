@@ -8,3 +8,4 @@ unidecode
 sklearn
 scipy
 gensim
+joblib
