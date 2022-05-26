@@ -2,3 +2,4 @@
 *.pyc
 Data/dataset/spam_agregado.json
 Data/dataset/spam_agregado.json
+IGNORE:prueba_git_local
