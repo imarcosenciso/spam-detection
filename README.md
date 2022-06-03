@@ -40,7 +40,7 @@ Para entender mejor el alcance del proyecto, leer la [documentación](https://dr
 
 <!-- USAGE -->
 ## Usage
-El proyecto en su totalidad se ejecuta en Jupyter notebooks. Para su ejecución, es necesario descargar el [dataset inical](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection), guardarlo en la carpeta `Data/dataset` (crearla si no existe) y ejecutar en primer lugar el fichero `preprocessing.ipynb`. Esto creará carpetas y demás documentos dentor de la carpeta de dataset.
+El proyecto en su totalidad se ejecuta en Jupyter notebooks. Para su ejecución, es necesario descargar el [dataset inical](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection), guardarlo en la carpeta `Data/dataset` (crearla si no existe) y ejecutar en primer lugar el fichero `preprocessing.ipynb`. Esto creará carpetas y demás documentos dentro de la carpeta de dataset.
 
 A continuación, ejecutar `analisis_algoritmos.ipynb` en la carpeta `src`. Una vez realizado esto, tendremos los modelos y ficheros necesarios para ejecutar `demo.ipynb` y entender cómo funciona.
 
